@@ -1,0 +1,3 @@
+Structure 1:
+  Step 1: C1CCCCC1, C1CCC1
+

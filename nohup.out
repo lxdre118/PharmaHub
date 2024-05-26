@@ -1,0 +1,34 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.25.251.230:8501
+  External URL: http://139.196.151.150:8501
+
+
+  A new version of Streamlit is available.
+
+  See what's new at https://discuss.streamlit.io/c/announcements
+
+  Enter the following command to upgrade:
+  $ pip install streamlit --upgrade
+
+2024-05-26 17:43:28.095 Uncaught app exception
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 600, in _run_script
+    exec(code, module.__dict__)
+  File "/root/PharmaHub/pages/indentifier.py", line 2, in <module>
+    from streamlit_ketcher import st_ketcher
+ModuleNotFoundError: No module named 'streamlit_ketcher'
+2024-05-26 17:44:01.594 Uncaught app exception
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 600, in _run_script
+    exec(code, module.__dict__)
+  File "/root/PharmaHub/pages/indentifier.py", line 3, in <module>
+    import pubchempy as pcp
+ModuleNotFoundError: No module named 'pubchempy'
+0 molecules converted
+0 molecules converted
+0 molecules converted
