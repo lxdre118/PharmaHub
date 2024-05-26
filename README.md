@@ -1,4 +1,5 @@
 # PharmaHub
+<<<<<<< HEAD
 
 A Comprehensive, Free, and Fast-Responsive Ligand-Based Drug Design Platform.
 
@@ -24,4 +25,7 @@ A Comprehensive, Free, and Fast-Responsive Ligand-Based Drug Design Platform.
 ## Usage
 To run the platform:
 ```bash
-python Home_Page.py
+streamlit Home_Page.py
+=======
+A Comprehensive, Free, and Fast-Responsive Ligand-Based Drug Design Platform
+>>>>>>> 1af28e55aae55acbecf3255dcea33de53f161d5e
