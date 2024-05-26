@@ -22,20 +22,7 @@ To set up the PharmaHub platform on your local machine, follow these steps:
     ```bash
     cd PharmaHub
     ```
-3. **Create a virtual environment:**
-    ```bash
-    python -m venv venv
-    ```
-4. **Activate the virtual environment:**
-    - On Windows:
-        ```bash
-        venv\Scripts\activate
-        ```
-    - On macOS and Linux:
-        ```bash
-        source venv/bin/activate
-        ```
-5. **Install the necessary dependencies:**
+3. **Install the necessary dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
@@ -44,3 +31,20 @@ To set up the PharmaHub platform on your local machine, follow these steps:
 To run the platform, use the following command:
 ```bash
 streamlit run Home_Page.py
+```
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any questions or feedback, please reach out to us:
+
+- Email: Shizunwang@foxmail.com
+- GitHub Issues: PharmaHub Issues
+
+## Acknowledgments
+- Contributors: We thank all the contributors who have helped improve PharmaHub.
+- Libraries and Tools: We acknowledge the developers of the libraries and tools that make PharmaHub possible.
+- Community: We appreciate the support and feedback from the user community.
+
+Thank you for using PharmaHub! We hope it aids in your drug discovery efforts. If you encounter any issues or have suggestions for improvement, don't hesitate to contact us.
+
